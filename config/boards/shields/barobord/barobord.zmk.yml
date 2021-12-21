@@ -1,0 +1,9 @@
+file_format: "1"
+id: barobord
+name: barobord
+type: shield
+url: https://github.com/sadekbaroudi/barobord/
+requires: [pro_micro]
+features:
+  - keys
+  - encoder
