@@ -67,7 +67,7 @@
 
             bindings = <
                &kp EXCL     &kp AT       &kp HASH        &kp DLLR         &kp PRCNT                              &kp CARET     &kp AMPS      &kp ASTRK     &kp LPAR    &kp RPAR
-               &hm LGUI 1   &hm LALT 2   &hm LCTL 3      &hs LSHFT 4      &kp 5                                  &kp 6         &hs RSHFT 7   &hm RCTL 8    &hm RALT 9  &hm RGUI 0
+               &hm LGUI N1  &hm LALT N2  &hm LCTL N3     &hs LSHFT N4     &kp N5                                 &kp N6        &hs RSHFT N7  &hm RCTL N8   &hm RALT N9 &hm RGUI N0
                &kp QMARK    &trans       &kp EQUAL       &kp MINUS        &trans                                 &trans        &trans        &trans        &trans      &trans
                             &trans       &trans          &trans           &trans         &trans    &trans        &trans        &trans        &trans        &trans
             >;
