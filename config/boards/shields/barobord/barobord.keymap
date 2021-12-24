@@ -15,6 +15,11 @@
     continue-list = <UNDERSCORE MINUS>;
 };
 
+&lt {
+    quick_tap_ms = <150>;
+    flavor = "tap-preferred";
+};
+
 / {
     behaviors {
         hm: homerow_mods {
@@ -22,7 +27,7 @@
             label = "HOMEROW_MODS";
             #binding-cells = <2>;
             tapping-term-ms = <200>;
-            quick_tap_ms = <0>;
+            quick_tap_ms = <150>;
             flavor = "tap-preferred";
             bindings = <&kp>, <&kp>;
         };
@@ -31,7 +36,7 @@
             label = "HOMEROW_MODS";
             #binding-cells = <2>;
             tapping-term-ms = <175>;
-            quick_tap_ms = <0>;
+            quick_tap_ms = <150>;
             flavor = "balanced";
             bindings = <&kp>, <&kp>;
         };

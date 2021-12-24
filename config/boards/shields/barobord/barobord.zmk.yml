@@ -6,4 +6,3 @@ url: https://github.com/sadekbaroudi/barobord/
 requires: [pro_micro]
 features:
   - keys
-  - encoder
